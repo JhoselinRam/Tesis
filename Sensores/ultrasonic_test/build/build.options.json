@@ -1,0 +1,11 @@
+{
+  "additionalFiles": "../../..,../../..",
+  "builtInToolsFolders": "",
+  "compiler.optimization_flags": "",
+  "customBuildProperties": "",
+  "fqbn": "arduino:avr:nano:cpu=atmega328old",
+  "hardwareFolders": "/home/adrian/.arduino15/packages",
+  "otherLibrariesFolders": "/home/adrian/Arduino/libraries",
+  "runtime.ide.version": "10607",
+  "sketchLocation": "/home/adrian/Documents/Tesis/Sensores/ultrasonic_test"
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/adrian/.arduino15/packages/arduino/hardware/avr/1.8.6/cores/arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "/home/adrian/.arduino15/packages/arduino/hardware/avr/1.8.6/variants/eightanaloginputs"
+  },
+  {
+    "Sourcefile": "/home/adrian/Documents/Tesis/Sensores/ultrasonic_test/build/sketch/ultrasonic_test.ino.cpp",
+    "Include": "HYSFR05.h",
+    "Includepath": "/home/adrian/Arduino/libraries/HYSFR05"
+  },
+  {
+    "Sourcefile": "/home/adrian/Documents/Tesis/Sensores/ultrasonic_test/build/sketch/ultrasonic_test.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "/home/adrian/Arduino/libraries/HYSFR05/HYSRF05.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
